@@ -1,0 +1,213 @@
+/* CSS Document */
+
+h1 {
+	font-size: 16px;
+	font-weight: bold;
+	margin-right: -3em;
+}
+
+h2 {
+	font-size: 15px;
+	margin-right: -3em;
+	margin-top: -1em;
+	text-align: center;
+}
+
+h3 {
+	padding-left: 0.5em;
+	font-size: 12px;
+}
+
+/* Before Log in */
+
+.welcome_letter{
+	font-size: 18px;
+	margin-bottom: -1em;
+}
+
+.login_register {
+	padding-left: 1em;
+	padding-bottom: 0.5em;
+	border-bottom: 1px solid black;
+	margin-top: -0.5em;
+	margin-right: -3em;
+	margin-bottom: 2em;
+}
+
+
+/* DIV ID's */
+
+#toggleText {
+	background-color: #F4F4F4;
+	border-bottom: 1px solid black;
+	margin-right: -3em;
+	margin-top: -1.3em;
+	margin-bottom: 1em;
+}
+
+
+/* Update Gamer Names (JS) */
+
+.update_logout {
+	font-size: 11px;
+	margin-bottom: -2em;
+	margin-right: -3em;
+	padding-bottom: 1em;
+	border-bottom: 1px solid black;
+}
+
+.xbox_title_update {
+	padding-left: 0.5em;
+}
+
+.psn_title_update {
+	padding-left: 0.5em;
+	margin-top: 1em;
+}
+
+.wii_title_update {
+	padding-left: 0.5em;
+	margin-top: 1em;
+}
+
+.steam_title_update {
+	padding-left: 0.5em;
+	margin-top: 1em;
+}
+
+.update_xbox_field {
+	padding-left: 3.8em;
+	margin-top: -2.2em;
+}
+
+.update_psn_field {
+	padding-left: 3.8em;
+	margin-top: -2.2em;
+}
+
+.update_wii_field {
+	padding-left: 3.8em;
+	margin-top: -2.2em
+}
+
+.update_steam_field {
+	padding-left: 3.8em;
+	margin-top: -2.2em;
+}
+
+.update_button {
+	float: right;
+	margin-top: -2.8em;
+	margin-right: 1em;
+}
+
+/* Dropdown Display */
+
+select, option { 
+	width: 7em; }
+
+.dropdown_title {
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: -2em;
+	margin-bottom: -1em;
+	margin-right: -3em;
+}
+
+.dropdown_menus {
+	margin-left: 1em;
+	border-bottom: 1px solid black;
+	margin-right: -3em;
+}
+
+.dropdown_users {
+	margin-left: 3.5em;
+	margin-top: -1.75em;
+	margin-right: -1em;
+}
+
+
+/* Search Form */
+
+.search_box_form {
+	margin-top: -2em;
+	margin-right: -3em;
+	padding-left: 1em;
+}
+
+.search_box_title {
+	font-size: 12px;
+}
+
+.search_box_search {
+	float: right;
+	margin-top: 0.3em;
+	margin-right: 5em;
+}
+
+/* Error message */
+
+.error_message {
+	margin-top: 2.5em;
+	margin-right: -3em;
+
+}
+
+
+
+/* Search Results */
+
+.search_results {
+	padding-left: 1em;
+	border-bottom: 1px solid black;
+	margin-right: -3em;
+}
+
+.search_title {
+	font-weight: bold;
+	margin-top: 3em;
+}
+
+.search_title_xbox {
+	font-size: 13px;
+	margin-top: -1.75em;
+}
+
+.search_title_psn {
+	font-size: 13px;
+	margin-top: -1.75em;
+}
+
+.search_title_wii {
+	font-size: 13px;
+	margin-top: -1.75em;
+}
+
+.search_title_steam {
+	margin-top: -1.75em;
+}
+
+.search_result_xbox {
+	margin-top: -1.6em;
+	margin-left: 5em;
+	height: 1.5em;
+}
+
+.search_result_psn {
+	margin-top: -1.6em;
+	margin-left: 5em;
+	height: 1.5em;	
+}
+
+.search_result_wii {
+	margin-top: -1.6em;
+	margin-left: 5em;
+	height: 1.5em;	
+}
+
+.search_result_steam {
+	margin-top: -1.6em;
+	margin-left: 5em;
+	height: 1.5em;	
+}
